@@ -25,7 +25,7 @@ body{
     padding: 0;
 }
 
-.cell:hover, .cell:focus{
+.cell:hover{
     background-color: black;
     color: black;
 }
