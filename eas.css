@@ -3,6 +3,12 @@
     --grid-columns: 1;
 }
 
+body{
+    background-color: #ADD8E6;
+    text-align: center;
+}
+
+
 #container{
     display: grid;
     grid-gap: 0;
@@ -11,6 +17,7 @@
     width: 800px;
     height: 800px;
     margin: auto;
+    background-color: white;
 }
 
 .cell{
